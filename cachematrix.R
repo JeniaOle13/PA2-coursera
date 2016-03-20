@@ -30,7 +30,7 @@ cacheSolve <- function(x, ...) {
     m.in
 }
 
-############ 
+############ ############## ##############
 a <- matrix(1:10, nrow = 10, ncol = 20)
 i.a <- makeCacheMatrix(a)
 i.a$get()
